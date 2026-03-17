@@ -87,8 +87,8 @@ bash prepare/prepare_pretrained.sh  # Download pretrained models
 ```
 
 Alternatively, you can manually download the files from the following links:
-- Pre-processed datasets: [Google Drive Link](https://drive.google.com/file/d/1aRR6uTL4UWaLGtd6aOzU7PoHUkbPeIc9/view?usp=sharing)
-- Pretrained MotionCritic model: [Google Drive Link](https://drive.google.com/file/d/1vifu1vktjCWDpyPpzGPugzHNalhsaMpq/view?usp=drive_link)
+- Pre-processed datasets: [Google Drive](https://drive.google.com/file/d/1aRR6uTL4UWaLGtd6aOzU7PoHUkbPeIc9/view?usp=sharing) | [HuggingFace](https://huggingface.co/datasets/littlekoyo/MotionPercept)
+- Pretrained MotionCritic model: [Google Drive](https://drive.google.com/file/d/1vifu1vktjCWDpyPpzGPugzHNalhsaMpq/view?usp=drive_link) | [HuggingFace](https://huggingface.co/littlekoyo/MotionCritic)
 
 
 ### Build Your Own Dataset (Optional)
@@ -101,8 +101,8 @@ bash prepare/prepare_fullmotion.sh
 ```
 
 Manual downloads are available here:
-- Full annotation results: [Google Drive Link](https://drive.google.com/file/d/1TpZ0nVvx2c84rYGmHsdLgNbu8gBwLGkA/view?usp=sharing)
-- Complete motion .npz files: [Google Drive Link](https://drive.google.com/file/d/1oM9B1InRkEpKu6-Y5sJ9Z-7DY7hemEpN/view?usp=drive_link)
+- Full annotation results: [Google Drive](https://drive.google.com/file/d/1TpZ0nVvx2c84rYGmHsdLgNbu8gBwLGkA/view?usp=sharing) | [HuggingFace](https://huggingface.co/datasets/littlekoyo/MotionPercept)
+- Complete motion .npz files: [Google Drive](https://drive.google.com/file/d/1oM9B1InRkEpKu6-Y5sJ9Z-7DY7hemEpN/view?usp=drive_link) | [HuggingFace](https://huggingface.co/datasets/littlekoyo/MotionPercept)
 
 After pre-processing the complete data, build your dataset with:
 
